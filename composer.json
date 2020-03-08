@@ -1,0 +1,21 @@
+{
+    "name": "phoenixtfm/utilities",
+    "type": "project",
+    "authors": [
+        {
+            "name": "phoenixtfm",
+            "email": "t.f.merk@web.de"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7",
+        "phpmetrics/phpmetrics": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "utilities\\": "src/"
+        }
+    }
+}
