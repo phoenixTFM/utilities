@@ -1,6 +1,7 @@
 # Utilities
 
 A collection of utility classes.
+See the [utilities-wiki](https://github.com/phoenixTFM/utilities/wiki) for more information and hints.
 
 ### Examples: SimpleTable
 
