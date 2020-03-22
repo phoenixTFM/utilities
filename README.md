@@ -3,7 +3,7 @@
 A collection of utility classes.
 See the [utilities-wiki](https://github.com/phoenixTFM/utilities/wiki) for more information and hints.
 
-### Examples: SimpleTable
+### SimpleTable
 
 ![Table 0](images/table0.png)
 
