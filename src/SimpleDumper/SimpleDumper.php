@@ -1,7 +1,7 @@
 <?php
 
 
-namespace utilities\Dumper;
+namespace utilities\SimpleDumper;
 
 /**
  * Class SimpleDumper
