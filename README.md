@@ -7,7 +7,9 @@ See the [utilities-wiki](https://github.com/phoenixTFM/utilities/wiki) for more 
 
 ![Table 0](images/table0.png)
 
-![Table 0](images/table1.png)
+![Table 1](images/table1.png)
+
+![Table 2](images/table2.png)
 
 ## Built With
 
